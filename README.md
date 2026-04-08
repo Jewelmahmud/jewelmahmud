@@ -16,7 +16,7 @@ I enjoy solving complex engineering challenges, from refactoring legacy systems 
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, PHP, JavaScript (ES6+), Java, C#, Rust, SQL  
+**Languages:** Python, PHP, JavaScript (ES6+), Java, C#, Rust, SQL 
 **Backend Frameworks:** Laravel, Express.js, Django, Flask  
 **Frontend:** React.js, jQuery, responsive UI development  
 **Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, Kafka  
@@ -68,7 +68,7 @@ This ecosystem is built using a multi-language microservices approach with **Jav
   Udacity | Woolf University
 - **BA in English Literature (2019)**  
   City University Bangladesh
-- **BBA (2015)**  
+- **BBA (Partially Completed, 2015)**  
   National University Bangladesh
 
 ---
