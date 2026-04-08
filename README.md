@@ -16,7 +16,7 @@ I enjoy solving complex engineering challenges, from refactoring legacy systems 
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, Java, C++, PHP, JavaScript (ES6+), SQL  
+**Languages:** Python, PHP, JavaScript (ES6+), Java, C#, Rust, SQL  
 **Backend Frameworks:** Laravel, Express.js, Django, Flask  
 **Frontend:** React.js, jQuery, responsive UI development  
 **Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, Kafka  
