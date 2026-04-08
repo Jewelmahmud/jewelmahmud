@@ -1,10 +1,10 @@
 <h1 align="center">Jewel Mahmud</h1>
-<h4 align="center">Md Mustafijur Rahman (Official Name)</h4>
+<h3 align="center">Md Mustafijur Rahman (Official Name)</h3>
 <p align="center"><em>Full-Stack Developer | Software Engineer | AI Enthusiast</em></p>
 
 ---
 
-## About Me
+## 👋 About Me
 
 I am an experienced Full-Stack Developer with 10+ years of professional experience building scalable, high-performance web applications across different industries and teams.
 
@@ -14,7 +14,7 @@ I enjoy solving complex engineering challenges, from refactoring legacy systems 
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Languages:** Python, Java, C++, PHP, JavaScript (ES6+), SQL  
 **Backend Frameworks:** Laravel, Express.js, Django, Flask  
@@ -25,7 +25,7 @@ I enjoy solving complex engineering challenges, from refactoring legacy systems 
 
 ---
 
-## Highlight Project
+## 🚀 Highlight Project
 
 ### Grameen Distributed Ecosystem
 - Building a distributed microservices ecosystem focused on practical digital services for rural communities.
@@ -35,7 +35,7 @@ I enjoy solving complex engineering challenges, from refactoring legacy systems 
 
 ---
 
-## Open Source Projects
+## 🌍 Open Source Projects
 
 I actively build and maintain the following open-source projects:
 
@@ -46,7 +46,7 @@ I actively build and maintain the following open-source projects:
 
 ---
 
-## Hobby Project
+## 💡 Hobby Project
 
 ### Grameen Distributed Ecosystem
 
@@ -62,18 +62,18 @@ This ecosystem is built using a multi-language microservices approach with **Jav
 
 ---
 
-## Education
+## 🎓 Education
 
 - **MSc in Artificial Intelligence (In Progress, expected 2027)**  
   Udacity | Woolf University
 - **BA in English Literature (2019)**  
   City University Bangladesh
-- **BBA (2019)**  
+- **BBA (2015)**  
   National University Bangladesh
 
 ---
 
-## Certifications & Specializations
+## 🏅 Certifications & Specializations
 
 - Software Engineering Specialization - The Hong Kong University of Science and Technology
 - Secure Software Design Specialization - University of Colorado
@@ -85,13 +85,13 @@ This ecosystem is built using a multi-language microservices approach with **Jav
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jewelmahmud&theme=github_dark)
 
 ---
 
-## Connect
+## 🤝 Connect
 
 - **Portfolio:** [jewelmahmud.com](http://jewelmahmud.com/)
 - **GitHub:** [github.com/Jewelmahmud](https://github.com/Jewelmahmud)
