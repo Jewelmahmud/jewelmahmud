@@ -1,8 +1,8 @@
-<h1 align="center">Jewel Mahmud</h1>
-<h3 align="center">Md Mustafijur Rahman (Official Name)</h3>
-<p align="center"><em>Full-Stack Developer | Software Engineer | AI Enthusiast</em></p>
+<h1 >Jewel Mahmud</h1>
+<h3 >Md Mustafijur Rahman (Official Name)</h3>
+<p ><em>Full-Stack Developer | Software Engineer | AI Enthusiast</em></p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -108,6 +108,8 @@ This ecosystem is built using a multi-language microservices approach with **Jav
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jewelmahmud&theme=github_dark)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelmahmud&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelmahmud&layout=compact&theme=radical)
 
 ---
 
