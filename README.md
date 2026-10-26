@@ -1,6 +1,6 @@
-<h1 >Jewel Mahmud</h1>
-<h3 >Md Mustafijur Rahman (Official Name)</h3>
-<p ><em>Full-Stack Developer | Software Engineer | AI Enthusiast</em></p>
+# Jewel Mahmud
+**Md Mustafijur Rahman**  
+*Full-Stack Software Engineer*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,107 +23,77 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am an experienced Full-Stack Developer with 10+ years of professional experience building scalable, high-performance web applications across different industries and teams.
+I am a full-stack software engineer with over 10 years of experience building web applications, APIs, and distributed systems.
 
-I am currently pursuing a Master of Science in Artificial Intelligence, with a focus on Agentic AI, Neural Networks, and NLP frameworks for modern software systems.
-
-I enjoy solving complex engineering challenges, from refactoring legacy systems to designing distributed services and real-time communication platforms.
+Currently pursuing an MSc in Artificial Intelligence through Woolf University / Udacity, focusing on agentic systems, neural architectures, and practical NLP integration. My technical background spans legacy modernization, polyglot microservice development, and real-time backend infrastructure.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-**Languages:** Python, PHP, JavaScript (ES6+), Java, C#, Rust, SQL 
-**Backend Frameworks:** Laravel, Express.js, Django, Flask  
-**Frontend:** React.js, jQuery, responsive UI development  
-**Android & Mobile:** Flutter (Dart), Kotlin, Android SDK, Gradle, Material Design  
-**Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, Kafka  
-**Architecture & Practices:** Microservices, SOLID, Design Patterns, UML, SDLC, Agile  
-**Security:** Threat modeling, cryptography, secure software design, PCI awareness
+- **Languages:** Python, PHP, JavaScript (ES6+), Java, C#, Rust, SQL
+- **Backend:** Laravel, Express.js, Django, Flask
+- **Frontend & Mobile:** React, Flutter, Android SDK, Kotlin
+- **Databases & Queues:** PostgreSQL, MySQL, MongoDB, Redis, Apache Kafka
+- **System Design & Security:** Microservices, event-driven architecture, REST APIs, SOLID principles, threat modeling
 
 ---
 
-## 🏆 Highlight Project
+## Featured Projects
 
 ### Grameen Distributed Ecosystem
-- Building a distributed microservices ecosystem focused on practical digital services for rural communities.
-- Designed as a multi-product platform including **Grameen Bazaar**, **Grameen Delivery**, **Grameen AI**, and **Grameen POS**.
-- Following a polyglot engineering approach with **JavaScript**, **Python**, and **C#** to match service requirements.
-- Focused on scalability, interoperability, and real-world usability for rural commerce and operations.
+A microservices platform providing digital infrastructure for rural commerce and services:
+- **Grameen Bazaar:** Multi-vendor commerce platform for rural merchants and buyers.
+- **Grameen Delivery:** Logistics coordination and fulfillment tracking.
+- **Grameen AI:** Automation tools and decision-support services.
+- **Grameen POS:** Point-of-sale system tailored for small local businesses.
+- **Architecture:** Polyglot microservices implemented across Python, JavaScript, and C#.
 
 ---
 
-## 🧩 Open Source Projects
+## Open Source
 
-I actively build and maintain the following open-source projects:
-
-- **Quran Memorizer** — AI-powered Quran memorization app with spaced repetition and pronunciation analysis.  
-  [View on GitHub →](https://github.com/Jewelmahmud/quran-memorizer)
-- **Qibla Direction** — Prayer times and Qibla direction companion with azan alerts, Hijri calendar, and offline support.  
-  [View on GitHub →](https://github.com/Jewelmahmud/qibla-direction)
+- **[Quran Memorizer](https://github.com/Jewelmahmud/quran-memorizer)** – Quran memorization tool featuring spaced repetition and audio pronunciation support.
+- **[Qibla Direction](https://github.com/Jewelmahmud/qibla-direction)** – Prayer times and compass utility with offline calculations, azan alerts, and Hijri calendar support.
 
 ---
 
-## 💡 Hobby Project
+## Education
 
-### Grameen Distributed Ecosystem
-
-I am building a distributed microservices ecosystem focused on practical digital services for rural communities.
-
-Core products in the ecosystem:
-- **Grameen Bazaar** - Multi-vendor eCommerce platform for rural people.
-- **Grameen Delivery** - Delivery and logistics service integration.
-- **Grameen AI** - AI-powered services for automation and decision support.
-- **Grameen POS** - Point-of-sale platform for small and local businesses.
-
-This ecosystem is built using a multi-language microservices approach with **JavaScript**, **Python**, and **C#**.
-
----
-
-## 🎓 Education
-
-- **MSc in Artificial Intelligence (In Progress, expected 2027)**  
-  Udacity | Woolf University
-- **BA in English Literature (2019)**  
+- **MSc in Artificial Intelligence** (In Progress, expected 2027)  
+  Woolf University / Udacity
+- **BA in English Literature** (2019)  
   City University Bangladesh
-- **BBA (Partially Completed, 2015)**  
+- **BBA** (Completed coursework up to 2015)  
   National University Bangladesh
 
 ---
 
-## 🏅 Certifications & Specializations
+## Certifications
 
-- Software Engineering Specialization - The Hong Kong University of Science and Technology
-- Secure Software Design Specialization - University of Colorado
-- Software Design and Architecture Specialization - University of Alberta
+- Software Engineering Specialization – The Hong Kong University of Science and Technology
+- Software Design and Architecture Specialization – University of Alberta
+- Secure Software Design Specialization – University of Colorado
 - IBM Full Stack Software Developer
 - Microsoft Full-Stack Developer Professional Certificate
 - Meta Full Stack Professional Certificate
-- AI-Powered Software Engineer - Udacity
+- AI-Powered Software Engineer – Udacity
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Your GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jewelmahmud&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jewelmahmud&theme=github_dark)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jewelmahmud&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelmahmud&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jewelmahmud&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelmahmud&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Connect
+## Contact
 
-- **Portfolio:** [jewelmahmud.com](http://jewelmahmud.com/)
+- **Website:** [jewelmahmud.com](http://jewelmahmud.com/)
 - **GitHub:** [github.com/Jewelmahmud](https://github.com/Jewelmahmud)
 - **LinkedIn:** [linkedin.com/in/jewelmahmud](https://www.linkedin.com/in/jewelmahmud/)
-- **Email:** info@jewelmahmud.com
-
----
-
-<p align="center">
-  <em>Building robust software systems with clean architecture and modern engineering practices.</em>
-</p>
-
-
+- **Email:** [info@jewelmahmud.com](mailto:info@jewelmahmud.com)
